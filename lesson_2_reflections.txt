@@ -16,6 +16,7 @@ organized? How would branches help?
 	Branches would be helpful when you are experimenting with changes, but don't want to screw up a working system or while working on a bug fix.
 
 How do the diagrams help you visualize the branch structure?
+	You can see at which node, new branches are made.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
