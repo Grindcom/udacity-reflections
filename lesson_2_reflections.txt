@@ -22,4 +22,5 @@ What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 	All commits from both branches are combined to one.
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+	Automatic can be very fast, but you have to trust git to make the correct choices.  Manually may take more time, but you get exactly what you want.
